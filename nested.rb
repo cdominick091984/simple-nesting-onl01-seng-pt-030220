@@ -16,8 +16,8 @@ def hopper
         }
      }
 
-		 programmer_hash[grace_hopper]
-
+		 val = programmer_hash[grace_hopper]
+		 val
 end
 
 def alan_kay_is_known_for
